@@ -1,0 +1,8 @@
+launcher_icon_back_54.png
+launcher_icon_edge_54.png
+launcher_icon_shine_54.png
+launcher_icon_shadow_62.png
+launcher_icon_back_150.png
+launcher_icon_shine_150.png
+category_gradient.png
+category_gradient_no_refine.png
